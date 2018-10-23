@@ -107,6 +107,5 @@ var _domain = "http://39.108.151.200:9999";
         '邀请码：' + search[0] + '，来即欧皇！',
         window.location.href,
         img.src);
-        alert(1);
     });
 }());
